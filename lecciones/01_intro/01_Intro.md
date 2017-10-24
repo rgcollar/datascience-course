@@ -1,4 +1,4 @@
-# Data Science con Impacto Social
+# Data Science con Impacto Social - Gustavo Collar
 
 ### Introducción
 
